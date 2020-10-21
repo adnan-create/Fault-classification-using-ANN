@@ -7,7 +7,15 @@
 
 
 **Table of Contents**
-
+- [Overview](#overview)
+- [Motivation](#motivation)
+- [Requirements](#requirements)
+- [Technical Aspect](#technical-aspect)
+  * [Data preparation](#data-preparation)
+  * [Training the model and tuning it for the optimum hyperparameter](#training-the-model-and-tuning-it-for-the-optimum-hyperparameter)
+  * [Training the model for the hyperparameter and deployment.](#training-the-model-for-the-hyperparameter-and-deployment)
+  * [Results](#results)
+- [Conclusion](#conclusion)
 
 
 ## Overview
