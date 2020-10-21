@@ -180,6 +180,7 @@ The correlation coefficient was found to be 0.86068 which indicates satisfactory
 ## Conclusion
 
 1.Artificial neural networks are a reliable and effective method for an electrical power system fault classification.
+
 2.Since we have a large training data set , ANN with back propogation is used as it gives good performance in such data heavy systems.
 
 
