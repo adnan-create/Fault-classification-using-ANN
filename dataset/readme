@@ -1,0 +1,3 @@
+The dataset is obtained by simulating a three-phase  power system on Simulink Matlab. The columns from 2 to 4 are taken to be the input and it contains the three phase voltages of phase A,B and 
+C respectively while the outputs are the last four columns representing the three phases and a ground in which the fault occurs.The values are 1/0 if a fault occurs in the respective 
+phase or not.
